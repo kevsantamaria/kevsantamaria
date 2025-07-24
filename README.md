@@ -3,12 +3,13 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <h3> About me </h3>
-
-- 👨🏽‍💻 Currently a Computer Engineering student
-- ❤️ Passionate about software development, especially **Frontend**
-- 🌱 Currently learning React and PERN Stack
-- 👯 Looking to collaborate on Web Development Related Projects
-- 🎨 In my free time, I enjoy creating pixel art and exploring 3D modeling.
+<ul>
+  <li>👨🏽‍💻 Currently a Computer Engineering student</li>
+  <li>❤️ Passionate about software development, especially <b>Frontend</b></li>
+  <li>🌱 Currently learning React and PERN Stack</li>
+  <li>👯 Looking to collaborate on Web Development Related Projects</li>
+  <li>🎨 In my free time, I enjoy creating pixel art and exploring 3D modeling.</li>
+</ul>
 
 <h3>Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h3>
 
