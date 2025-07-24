@@ -13,7 +13,7 @@
 <h3>Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h3>
 
 <div>
-<img width="500px" height="500px" src="https://skillicons.dev/icons?i=html,css,js,git" />
-<img width="500px" height="500px"  src="https://skillicons.dev/icons?i=tailwind,nodejs,react,postgres" />
+<img width="300px" height="300px" src="https://skillicons.dev/icons?i=html,css,js,git" />
+<img width="300px" height="300px"  src="https://skillicons.dev/icons?i=tailwind,nodejs,react,postgres" />
   
 </div>
