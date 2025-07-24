@@ -10,8 +10,6 @@
 - 👯 Looking to collaborate on Web Development Related Projects
 - 🎨 In my free time, I enjoy creating pixel art and exploring 3D modeling.
 
-<br />
-
 <h3>Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h3>
 
 <div>
