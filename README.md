@@ -5,7 +5,7 @@
 <h3> About me </h3>
 <ul>
   <li>👨🏽‍💻 Currently a Computer Engineering student</li>
-  <li>❤️ Passionate about software development, especially <b>Frontend</b></li>
+  <li>❤️ Passionate about software development, <br> especially <b>Frontend</b></li>
   <li>🌱 Currently learning React and PERN Stack</li>
   <li>👯 Looking to collaborate on Web Development Related Projects</li>
   <li>🎨 In my free time, I enjoy creating pixel art and exploring 3D modeling.</li>
@@ -16,5 +16,4 @@
 <div>
 <img width="300px" height="300px" src="https://skillicons.dev/icons?i=html,css,js,git" />
 <img width="300px" height="300px"  src="https://skillicons.dev/icons?i=tailwind,nodejs,react,postgres" />
-  
 </div>
