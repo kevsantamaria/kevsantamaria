@@ -15,7 +15,7 @@
 
 <div>
   <img width="300px" height="300px" src="https://skillicons.dev/icons?i=html,css,js,git" />
-  <img width="300px" height="300px"  src="https://skillicons.dev/icons?i=tailwind,nodejs,react,postgres" />
+  <img width="300px" height="300px"  src="https://skillicons.dev/icons?i=tailwind,nodejs,bun,react,postgres" />
 </div>
 
 <h3>Contact</h3>
