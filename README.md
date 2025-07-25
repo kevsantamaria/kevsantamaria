@@ -14,6 +14,20 @@
 <h3>Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h3>
 
 <div>
-<img width="300px" height="300px" src="https://skillicons.dev/icons?i=html,css,js,git" />
-<img width="300px" height="300px"  src="https://skillicons.dev/icons?i=tailwind,nodejs,react,postgres" />
+  <img width="300px" height="300px" src="https://skillicons.dev/icons?i=html,css,js,git" />
+  <img width="300px" height="300px"  src="https://skillicons.dev/icons?i=tailwind,nodejs,react,postgres" />
+</div>
+
+<h3>Contact</h3>
+
+<div>
+  <a href="mailto:santamariakevin2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/kevin-santamaria-d%C3%A1vila-4505832b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="t.me/kevinsd">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </div>
