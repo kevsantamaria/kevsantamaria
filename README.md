@@ -4,7 +4,7 @@
 
 <h3> About me </h3>
 <ul>
-  <li>👨🏽‍💻 Currently a Computer Engineering student</li>
+  <li>👨🏻‍💻 Currently a Computer Engineering student</li>
   <li>❤️ Passionate about software development, <br> especially <b>Frontend</b></li>
   <li>🌱 Currently learning React and PERN Stack</li>
   <li>👯 Looking to collaborate on Web Development Related Projects</li>
