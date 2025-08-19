@@ -6,7 +6,7 @@
 <ul>
   <li>👨🏻‍💻 Currently a Computer Engineering student</li>
   <li>❤️ Passionate about software development, <br> especially <b>Frontend</b></li>
-  <li>🌱 Currently learning React and Astro</li>
+  <li>💪🏻 Currently strengthening my current knowledge</li>
   <li>👯 Looking to collaborate on Web Development Related Projects</li>
   <li>🎨 In my free time, I enjoy creating pixel art and exploring 3D modeling.</li>
 </ul>
