@@ -24,7 +24,7 @@
   <a href="mailto:santamariakevin2003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/kevin-santamaria/" target="_blank">
+  <a href="https://linkedin.com/in/kevsantamaria/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/kevinsd" target="_blank">
