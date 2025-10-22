@@ -21,7 +21,7 @@
 <h3>Contact</h3>
 
 <div>
-  <a href="mailto:santamariakevin2003@gmail.com" target="_blank">
+  <a href="mailto:kevsantamaria01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/kevsantamaria/" target="_blank">
