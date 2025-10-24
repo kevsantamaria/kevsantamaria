@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Kevin <img alt="GIF" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
+<!--🌱-->
 <h3> About me </h3>
 <ul>
   <li>👨🏻‍💻 Currently a Computer Engineering student</li>
   <li>❤️ Passionate about software development, especially <b>Frontend</b></li>
-  <li>🌱 Currently learning Next.js</li>
+  <li>💪 Currently deepening my knowledge of the React ecosystem</li>
   <li>👯 Looking to collaborate on Web Development Related Projects</li>
   <li>🎨 In my free time, I enjoy creating pixel art and exploring 3D modeling.</li>
 </ul>
@@ -15,7 +15,7 @@
 
 <div>
   <img width="300px" height="300px" src="https://skillicons.dev/icons?i=html,css,js,ts,git" />
-  <img width="300px" height="300px"  src="https://skillicons.dev/icons?i=tailwind,npm,bun,react,nextjs,postgres" />
+  <img width="300px" height="300px"  src="https://skillicons.dev/icons?i=tailwind,npm,bun,react,astro,nextjs,postgres" />
 </div>
 
 <h3>Contact</h3>
@@ -27,7 +27,7 @@
   <a href="https://linkedin.com/in/kevsantamaria/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/kevinsd" target="_blank">
+  <a href="https://t.me/kevsantamaria01" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
