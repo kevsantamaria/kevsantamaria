@@ -10,7 +10,7 @@
   <li>👯 Looking to collaborate on Web Development Related Projects</li>
   <li>💥 Breaking things in the terminal in my spare time</li>
 </ul>
-<br/>
+<br/> <br/>
 <h3>Languages and Tools</h3>
 
 <div>
