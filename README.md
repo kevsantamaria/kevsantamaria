@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kevin <img alt="GIF" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" alt="GIF" height="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" height="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <!--🌱💪-->
 <h3> About me </h3>
 <ul>
@@ -10,7 +10,7 @@
   <li>👯 Looking to collaborate on Web Development Related Projects</li>
   <li>💥 Breaking things in the terminal in my spare time</li>
 </ul>
-<br/> <br/>
+<br/>
 <h3>Languages and Tools</h3>
 
 <div>
