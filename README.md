@@ -16,7 +16,7 @@
 <div>
   <img width="400px" height="300px" src="https://skills.syvixor.com/api/icons?perline=15&i=html,css3,javascript,typescript,reactjs,astro" />
   <br/>
-  <img width="400px" height="300px"  src="https://skills.syvixor.com/api/icons?perline=15&i=axios,tanstack,zustand,reactrouter,reacthookform,zod,tailwindcss,shadcnui,materialui" />
+  <img width="550px" height="300px"  src="https://skills.syvixor.com/api/icons?perline=15&i=axios,tanstack,zustand,reactrouter,reacthookform,zod,tailwindcss,shadcnui,materialui" />
   <br/>
   <img width="400px" height="300px" src="https://skills.syvixor.com/api/icons?perline=15&i=git,github,expressjs,prisma,postgresql,prettier,eslint,linux"/>
 </div>
