@@ -1,5 +1,5 @@
 <pre>
-~$ cat me.txt
+~$ cat me.md
 
 Hi there 👋
 
