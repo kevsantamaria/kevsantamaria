@@ -2,7 +2,6 @@
 ~$ cat me.md
 
 Hi there 👋
-
 I'm <b>Kevin</b>, A <b>Frontend Developer</b> and <b>Computer Engineering student</b>.
 
 ~$ ls skills/
