@@ -12,7 +12,7 @@ I'm <b>Kevin</b>, A <b>Frontend Developer</b> and <b>Computer Engineering studen
 
 preferred-language: <b>TypeScript</b>
 os: <b>CachyOS Linux</b>
-deepening-knowledge-in: <b>React ecosystem</b>
+currently-learning: <b>Nestjs</b>
 enjoy: <b>Breaking & fixing things in my system</b>
 
 ~$ exit
