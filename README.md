@@ -6,13 +6,13 @@ I'm <b>Kevin</b>, A <b>Frontend Developer</b> and <b>Computer Engineering studen
 
 ~$ ls skills/
 
-<img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,react,nextjs,tailwindcss,shadcnui,expressjs,postgresql,supabase,tanstack,astro,git,linux&perline=7" />
+<img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,react,nextjs,nestjs,tailwindcss,expressjs,postgresql,supabase,astro,git,linux&perline=7" />
   
 ~$ fastfetch
 
 preferred-language: <b>TypeScript</b>
-os: <b>CachyOS Linux</b>
-currently-learning: <b>Nestjs</b>
+os: <b>CachyOS</b>
+currently-learning: <b>System Design</b>
 enjoy: <b>Breaking & fixing things in my system</b>
 
 ~$ exit
